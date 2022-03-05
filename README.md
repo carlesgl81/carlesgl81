@@ -35,19 +35,20 @@
 ## 🚀 I do speak:
 
 <p align="center"> 
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/great-britain.png"/></a>
-    <a href="https://terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spain2-circular.png"/> </a>
-    <a href="https://portal.azure.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/germany.png"/> </a> 
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spain.png"/></a>
+    <a href="https://terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/great-britain.png"/> </a>
+    <a href="https://portal.azure.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/germany.png"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/andorra.png"/> </a> 
 </p>
 
 ## 🚀 I did live in:
 
 <p align="center"> 
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/great-britain.png"/></a>
-    <a href="https://terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spain2-circular.png"/> </a>
-    <a href="https://portal.azure.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/germany.png"/> </a> 
+<img src="https://img.icons8.com/color/48/000000/spain.png"/>
+<img src="https://img.icons8.com/color/48/000000/germany.png"/>
+<img src="https://img.icons8.com/color/48/000000/hongkong-flag.png"/>
+<img src="https://img.icons8.com/color/48/000000/usa.png"/>
+<img src="https://img.icons8.com/color/48/000000/canada.png"/> 
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
