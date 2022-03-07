@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences [https://www.cloud39.io/cv](https://www.cloud39.io/cv)
 
+<br/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/carlesgl81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlesgl81" height="30" width="40" /></a>
@@ -47,7 +49,7 @@
 </p>
 <br/>
 
-<h3 align="center">## 📊 My Github Stats</h3>
+<h3 align="center">📊 My Github Stats</h3>
 
   <br/>
     <a href="https://github.com/carlesgl81/github-readme-stats"><img alt="Carles González León´s Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlesgl81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
