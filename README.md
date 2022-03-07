@@ -67,8 +67,8 @@
 <br/>
 
 <h3 align="center">Views and Followers</h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a align="center" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=carlesgl81">
 </a>
-<a href="https://github.com/carlesgl81?tab=followers"><img src="https://img.shields.io/github/followers/carlesgl81?label=Followers&style=social" alt="GitHub Badge"></a>
+<a align="center" href="https://github.com/carlesgl81?tab=followers"><img src="https://img.shields.io/github/followers/carlesgl81?label=Followers&style=social" alt="GitHub Badge"></a>
 
