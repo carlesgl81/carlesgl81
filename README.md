@@ -4,6 +4,10 @@
 
 <h3 align="center">and I enjoy learning Azure</h3>
 
+<br/>
+
+<p align="center">
+
 - 🌱 I’m currently learning **Azure Arc.**
 
 - 🤝 I’m looking for help **sharing knowledge**
@@ -17,7 +21,10 @@
 - 📫 How to reach me **carles@cloud39.io**
 
 - 📄 Know about my experiences [https://www.cloud39.io/cv](https://www.cloud39.io/cv)
+    
+</p>
 
+<br/>
 <br/>
 
 <h3 align="center">Connect with me:</h3>
