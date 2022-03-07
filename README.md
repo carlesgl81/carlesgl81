@@ -6,8 +6,6 @@
 
 <br/>
 
-<p align="center">
-
 - 🌱 I’m currently learning **Azure Arc.**
 
 - 🤝 I’m looking for help **sharing knowledge**
@@ -20,8 +18,7 @@
 
 - 📫 How to reach me **carles@cloud39.io**
 
-- 📄 Know about my experiences [https://www.cloud39.io/cv](https://www.cloud39.io/cv)
-</p>
+- 📄 Know about my experiences [https://www.cloud39.io/cv](https://www.cloud39.io/cglcv.pdf)
 
 <br/>
 <br/>
