@@ -4,8 +4,6 @@
 
 <h3 align="center">and I enjoy learning Azure</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlesgl81&label=Profile%20views&color=0e75b6&style=flat" alt="carlesgl81" /> </p>
-
 - 🌱 I’m currently learning **Azure Arc.**
 
 - 🤝 I’m looking for help **sharing knowledge**
