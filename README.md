@@ -61,12 +61,11 @@
 
 
 <br/>
-<br/>
 
 <a href="https://github.com/carlesgl81/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carlesgl81&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+
 
 <h3 align="center">Views and Followers</h3>
 <p align="center"> 
