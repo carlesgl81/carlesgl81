@@ -24,10 +24,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/carlesgonzalezleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlesgonzalezleon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14714111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14714111" height="30" width="40" /></a>
-<a href="https://twitter.com/carlesgl81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlesgl81" height="30" width="40" /></a>
-<a href="https://instagram.com/carlesgl81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlesgl81" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlesgonzalezleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14714111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://twitter.com/carlesgl81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/carlesgl81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -45,18 +45,18 @@
 
 <p align="center">
     <a href="https://github.com/carlesgl81/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Carles González León´s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlesgl81&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Carles´ streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlesgl81&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <h3 align="center">📊 My Github Stats</h3>
 
-  <a href="https://github.com/carlesgl81/github-readme-stats"><img alt="Carles González León´s Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlesgl81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Carles González León´s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlesgl81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/carlesgl81/github-readme-stats"><img alt="Carles´ Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlesgl81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Carles´ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlesgl81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/carlesgl81/github-readme-activity-graph"><img alt="Carles's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carlesgl81&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/carlesgl81/github-readme-activity-graph"><img alt="Carles' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carlesgl81&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3 align="center">Views and Followers</h3>
 <p align="center"> 
