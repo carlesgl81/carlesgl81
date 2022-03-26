@@ -52,7 +52,7 @@
 <h3 align="center">📊 My Github Stats</h3>
 
   <a href="https://github.com/carlesgl81/github-readme-stats"><img alt="Carles´ Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlesgl81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Carles´ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlesgl81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/carlesgl81/github-readme-stats"><img alt="Carles´ Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlesgl81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 
 <h3 align="center">Views and Followers</h3>
 <p align="center"> 
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=carlesgl81"></a>
+    <a href="https://github.com/carlesgl81/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=carlesgl81"></a>
     <a href="https://github.com/carlesgl81?tab=followers"><img src="https://img.shields.io/github/followers/carlesgl81?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
