@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help **sharing knowledge**
 
-- 👨‍💻 All of my projects are available at [https://www.cloud39.io](https://www.cloud39.io)
+- 👨‍💻 All of my projects are available at [https://www.cloud41.net](https://www.cloud41.net)
 
-- 📝 I regularly write articles on [https://www.cloud39.io](https://www.cloud39.io)
+- 📝 I regularly write articles on [https://www.cloud41.net](https://www.cloud41.net)
 
 - 💬 Ask me about **Azure stuff**
 
-- 📫 How to reach me **carles@cloud39.io**
+- 📫 How to reach me **carles@cloud41.net**
 
-- 📄 Know about my experiences [https://www.cloud39.io/cv](https://www.cloud39.io/cglcv.pdf)
+- 📄 Know about my experiences [https://www.cloud41.net/cv](https://www.cloud41.net/cglcv.pdf)
 
 <br/>
 
